@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(172, 227, 245);
+    color: rgb(11, 11, 100);
+    font-size: 15px;
+    font-style: arial, sans-serif;
+}
+
+h1{
+    font-family: Helvetica, sans-serif;
+    font-style: italic;
+}
+
+#nome-completo{
+    font-size: 1.75em;
+    font-weight: bold;
+    font-family: Helvetica, sans-serif;
+}
+
+
